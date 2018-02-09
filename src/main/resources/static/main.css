@@ -1,0 +1,21 @@
+able {
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: left;
+}
+
+.select {
+    border: 1px solid black;
+    background-color: white;
+    border: 2px inset;
+    padding: 0.3px;
+    cursor: auto;
+    height: 30px;
+}
+
+.line-center {
+display: inline-flex;
+justify-content: center;
+}
