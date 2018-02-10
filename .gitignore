@@ -5,3 +5,7 @@ build
 node_modules
 src/main/resources/static/built/bundle.js.map
 src/main/resources/static/built/bundle.js
+tmp
+team13.iml
+team13.ipr
+team13.iws

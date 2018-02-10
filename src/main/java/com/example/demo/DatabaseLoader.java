@@ -58,7 +58,7 @@ public class DatabaseLoader implements CommandLineRunner {
             //Pornnuttha Jaiprasert///
         Employee e1 = new Employee("Natcha", "Boonchoei","081-111-1111","repair","Thailand", 20, "Female", "1111111111111","a");
         Employee e2 = new Employee("Surapa", "Khemmakanon","082-222-2222","manager","Thailand", 20, "Male", "2222222222222","b");
-        Employee e3 = new Employee("Patcharapon", "Duangtian","083-333-3333","sales","Thailand", 21, "Female", "333333333333","c");
+        Employee e3 = new Employee("Patcharapon", "Duangtian","083-333-3333","sales","Thailand", 21, "Female", "3333333333333","c");
         Employee e4 = new Employee("Sarida", "Mongkhonnum","084-444-4444","sales","Thailand", 22, "Male", "4444444444444","d");
         Employee e6 = new Employee("Anuruk", "Thongkumsai","085-555-5555","sales","Thailand", 20, "Male", "5555555555555","e");
         Employee e5 = new Employee("Pornnuttha", "Jaiprasert","086-666-6666","sales","Thailand", 20, "Female", "6666666666666","f");

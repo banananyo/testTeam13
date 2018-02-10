@@ -23,7 +23,6 @@ public class User {
     private User(){}
 
     public User(String Username, String Password,Employee employee){
-        this.id = id;
         this.Username = Username;
         this.Password = Password;
         this.employee = employee;
